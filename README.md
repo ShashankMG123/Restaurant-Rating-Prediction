@@ -1,4 +1,4 @@
-# Restaurant-Rating-Prediction
+# Restaurant-Rating-Prediction 
 
 Every business wants to know if they can succeed or not. 
 With the rapid growth of the food industry we have witnessed a rise in the number of restaurants around us. 
@@ -13,3 +13,6 @@ We can use the confusion matrix as a performance metric.
 Can use jupyter-notebook to reproduce our results.
 * Change the path to the dataset before trying to reproduce results.
 * Dataset used can be found on https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+
+Week1:
+Linear Regression performed pretty bad with an accuracy of 19% (threshold was ±2)
