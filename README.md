@@ -15,4 +15,4 @@ Can use jupyter-notebook to reproduce our results.
 * Dataset used can be found on https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 Week1:
-Linear Regression performed pretty bad with an accuracy of 19% (threshold was Â±2)
+Linear Regression performed pretty bad with an accuracy of 19% (threshold was Â1)
