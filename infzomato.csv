@@ -1,0 +1,94 @@
+Rating,Approx. cost for 2,Cuisine,location,online_order,online_table_book
+4.71,1600.0,North Indian,Banashankari,No,Yes
+4.71,1600.0,North Indian,Basavanagudi,No,Yes
+4.71,1600.0,North Indian,Mysore Road,No,Yes
+4.71,1600.0,North Indian,Jayanagar,No,Yes
+4.71,1600.0,North Indian,Kumaraswamy Layout,No,Yes
+4.71,1600.0,North Indian,Rajarajeshwari Nagar,No,Yes
+4.71,1600.0,North Indian,Vijay Nagar,No,Yes
+4.71,1600.0,North Indian,Uttarahalli,No,Yes
+4.71,1600.0,North Indian,JP Nagar,No,Yes
+4.71,1600.0,North Indian,South Bangalore,No,Yes
+4.71,1600.0,North Indian,City Market,No,Yes
+4.9,1600.0,North Indian,Nagarbhavi,No,Yes
+4.9,1600.0,North Indian,Bannerghatta Road,No,Yes
+4.9,1600.0,North Indian,BTM,No,Yes
+4.9,1600.0,North Indian,Kanakapura Road,No,Yes
+4.6,1600.0,Desserts,Bommanahalli,Yes,No
+4.6,1600.0,Desserts,Electronic City,Yes,No
+4.7,1000.0,North Indian,HSR,No,Yes
+4.9,1600.0,North Indian,Marathahalli,Yes,Yes
+4.9,1600.0,North Indian,Sarjapur Road,Yes,Yes
+4.9,1600.0,North Indian,Wilson Garden,Yes,Yes
+4.9,1600.0,Chinese,Shanti Nagar,Yes,Yes
+4.9,1600.0,Chinese,Koramangala 5th Block,Yes,Yes
+4.9,1600.0,Chinese,Koramangala 8th Block,Yes,Yes
+4.9,1600.0,Chinese,Richmond Road,Yes,Yes
+4.9,1600.0,Chinese,Jalahalli,Yes,Yes
+4.9,1600.0,Chinese,Koramangala 7th Block,Yes,Yes
+4.7,1600.0,Chinese,Koramangala 4th Block,Yes,Yes
+4.7,1600.0,Chinese,Bellandur,Yes,Yes
+4.9,1400.0,North Indian,Whitefield,No,Yes
+4.9,1400.0,North Indian,East Bangalore,No,Yes
+4.7,1600.0,North Indian,Old Airport Road,No,Yes
+4.7,1600.0,North Indian,Koramangala 1st Block,No,Yes
+4.7,1600.0,North Indian,RT Nagar,No,Yes
+4.7,1600.0,North Indian,MG Road,No,Yes
+4.7,1600.0,North Indian,Brigade Road,No,Yes
+4.7,1600.0,North Indian,Lavelle Road,No,Yes
+4.6,1600.0,South Indian,Ulsoor,Yes,Yes
+4.6,1200.0,Cafe,Church Street,Yes,No
+4.65,800.0,Cafe,Residency Road,No,No
+4.65,800.0,Cafe,Shivajinagar,No,No
+4.6,1600.0,South Indian,Infantry Road,Yes,Yes
+4.6,1600.0,South Indian,St. Marks Road,Yes,Yes
+4.6,800.0,Cafe,Cunningham Road,Yes,No
+4.6,800.0,Cafe,Race Course Road,Yes,No
+4.6,800.0,Cafe,Commercial Street,Yes,No
+4.9,2000.0,North Indian,Vasanth Nagar,Yes,Yes
+4.9,2000.0,North Indian,HBR Layout,Yes,Yes
+4.9,2000.0,North Indian,Domlur,Yes,Yes
+4.9,2000.0,North Indian,Indiranagar,Yes,Yes
+4.9,2000.0,North Indian,Frazer Town,Yes,Yes
+4.9,2000.0,North Indian,Ejipura,Yes,Yes
+4.9,2000.0,North Indian,Jeevan Bhima Nagar,Yes,Yes
+4.9,2000.0,North Indian,Old Madras Road,Yes,Yes
+4.9,2000.0,North Indian,Malleshwaram,Yes,Yes
+4.9,2000.0,North Indian,Kammanahalli,Yes,Yes
+4.6,800.0,Cafe,Majestic,Yes,No
+4.6,800.0,Cafe,Koramangala 6th Block,Yes,No
+4.6,800.0,Cafe,Langford Town,Yes,No
+4.6,800.0,Cafe,Central Bangalore,Yes,No
+4.6,800.0,Cafe,Sanjay Nagar,Yes,No
+4.6,800.0,Cafe,Brookefield,Yes,No
+4.6,1600.0,South Indian,"ITPL Main Road, Whitefield",Yes,Yes
+4.6,1600.0,South Indian,"Varthur Main Road, Whitefield",Yes,Yes
+4.6,1600.0,South Indian,KR Puram,Yes,Yes
+4.6,1600.0,South Indian,Koramangala 2nd Block,Yes,Yes
+4.6,1000.0,North Indian,Koramangala 3rd Block,Yes,Yes
+4.6,1000.0,North Indian,Koramangala,Yes,Yes
+4.6,1000.0,North Indian,Hosur Road,Yes,Yes
+4.6,1000.0,North Indian,Rajajinagar,Yes,Yes
+4.6,1000.0,North Indian,Seshadripuram,Yes,Yes
+4.6,1600.0,South Indian,Banaswadi,Yes,Yes
+4.6,1600.0,South Indian,North Bangalore,Yes,Yes
+4.6,1600.0,South Indian,Nagawara,Yes,Yes
+4.6,1600.0,South Indian,Hennur,Yes,Yes
+4.6,1600.0,South Indian,Kalyan Nagar,Yes,Yes
+4.7,800.0,Cafe,New BEL Road,Yes,No
+4.7,800.0,Cafe,Jakkur,Yes,No
+4.7,800.0,Cafe,Rammurthy Nagar,Yes,No
+4.7,800.0,Cafe,Thippasandra,Yes,No
+4.7,800.0,Cafe,CV Raman Nagar,Yes,No
+4.7,800.0,Cafe,Kaggadasapura,Yes,No
+4.7,800.0,Cafe,Kengeri,Yes,No
+4.7,800.0,Cafe,Sankey Road,Yes,No
+4.7,800.0,Cafe,Sadashiv Nagar,Yes,No
+4.7,800.0,Cafe,Basaveshwara Nagar,Yes,No
+4.7,800.0,Cafe,Yeshwantpur,Yes,No
+4.7,800.0,Cafe,West Bangalore,Yes,No
+4.7,800.0,Cafe,Yelahanka,Yes,No
+4.7,800.0,Cafe,Sahakara Nagar,Yes,No
+4.7,800.0,Cafe,Hebbal,Yes,No
+4.7,800.0,Cafe,Magadi Road,Yes,No
+4.7,800.0,Cafe,Peenya,Yes,No
